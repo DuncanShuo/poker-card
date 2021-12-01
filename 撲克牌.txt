@@ -1,0 +1,7 @@
+三個class
+1.Card
+2.DeckOfCards
+3.Hand
+
+hand.use by (DeckOfCards.use by (card))
+
